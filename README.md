@@ -3,4 +3,4 @@ Uses an SVG of the microbit from https://github.com/microbit-foundation/microbit
 
 Credit to https://github.com/microbit-foundation/microbit-svg for the original SVG.
 
-To use, simply edit the `config.txt` file and run the python script.
+To use, simply edit the `config.txt` file and run the python script. It will generate an `output.svg` file.
