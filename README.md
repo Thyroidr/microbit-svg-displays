@@ -6,8 +6,10 @@ Credit to https://github.com/microbit-foundation/microbit-svg for the original S
 To use, simply edit the `config.txt` file and run the python script. It will generate an `output.svg` file.
 
 Put the brightnesses in the following order:
+```raw
 0 5 10 15 20
 1 6 11 16 21
 2 7 12 17 22
 3 8 13 18 23
 4 9 14 19 24
+```
